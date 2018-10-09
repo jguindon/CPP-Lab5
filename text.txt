@@ -1,0 +1,2 @@
+Your triangle has 3 sides that are: 
+1cm,2cm,5cm.
